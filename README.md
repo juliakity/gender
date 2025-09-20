@@ -1,3 +1,3 @@
 # gender
 
-it/they/she kitty
+it/they/pup/she dog
